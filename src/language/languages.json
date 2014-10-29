@@ -232,7 +232,7 @@
         "fileExtensions": ["sh", "command", "bash"],
         "lineComment": ["#"]
     },
-  
+    
     "image": {
         "name": "Image",
         "fileExtensions": ["gif", "png", "jpe", "jpeg", "jpg", "ico", "bmp"],
